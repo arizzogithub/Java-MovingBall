@@ -1,1 +1,1 @@
-# MovingBall-Java.
+Java course assignment.
